@@ -1,0 +1,24 @@
+Task 1: Explore Hugging Face and list 5 different LLMs and their use cases.
+
+Hugging Face hosts numerous large language models (LLMs) available for text generation tasks. Five popular ones include Llama, Mistral, Gemma, Phi, and Qwen, each suited to specific applications.
+​
+
+Llama
+Llama models from Meta, ranging from 7B to 405B parameters, emphasize efficient inference for serving language models. They excel in research, chat applications, and code generation due to their transformer architecture with rotary positional embeddings.
+​
+
+Mistral
+Mistral models, such as Mistral 7B, appear prominently in trending text generation on Hugging Face. These lightweight yet powerful LLMs support conversational AI, instruction-following, and multilingual tasks with high performance on leaderboards.
+​
+​
+
+Gemma
+Gemma, developed by Google, offers 2B and 7B parameter variants for lightweight deployment. Ideal for mobile and edge devices, it handles instruction-tuned tasks like summarization and question-answering efficiently.
+​
+
+Phi
+Microsoft's Phi-2, a 2.7B parameter model, demonstrates strong performance in common sense reasoning and language understanding. Use it for educational tools, logical reasoning, and compact NLP applications despite its small size.
+​
+
+Qwen
+Qwen models from Alibaba support multilingual capabilities across 12 languages, including exams, translation, and math tasks. They integrate well with frameworks like Hugging Face Transformers for advanced generative AI and RAG systems
