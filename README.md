@@ -110,6 +110,62 @@ Building interactive web applications with Streamlit:
 - Chat application with history
 - RAG-based question answering
 - Interactive data exploration
+- 
+### 7. [Agentic-AI](./Agentic-Ai/)
+
+**Status:** ✅ Completed
+
+AI Agents and multi-step reasoning frameworks:
+- AI project manager implementation
+- Different agents framework (CrewAI, AutoGen)
+- Task delegation and coordination
+- Agent communication patterns
+- Complex workflow automation
+- Tool integration with agents
+
+**Tasks Completed:**
+- Task 1: Build an AI project manager agent
+- Task 2: Implement different agents framework
+- Task 3: Chat application with agent support
+- Task 4: Multi-task agent coordination
+- Task 5: File processing with agents
+- Task 6: Advanced agent reasoning
+
+### 8. [ImageGeneration](./ImageGeneration/)
+
+**Status:** ✅ Completed
+
+Image processing, OCR, and text-to-image generation:
+- Optical Character Recognition (OCR) with PyTesseract
+- Image text extraction and processing
+- Text-to-image generation with Diffusers
+- Image manipulation and enhancement
+- Batch image processing
+- Multi-language OCR support
+
+**Tasks Completed:**
+- Task 1: Extract text from images using OCR
+- Task 2: Process and clean extracted text
+- Task 3: Generate images from text prompts
+- Task 6: Batch image generation pipeline
+
+### 9. [NOSQL_TASK](./NOSQL_TASK/)
+
+**Status:** ✅ Completed
+
+NoSQL databases and MongoDB integration:
+- MongoDB setup and configuration
+- CRUD operations with MongoDB
+- Database schema design
+- Data modeling for NoSQL
+- Flask MongoDB integration
+- Chatlog database implementation
+
+**Tasks Completed:**
+- Chatlogs: Chat history storage and retrieval
+- Flask_mongo: Flask application with MongoDB backend
+
+
 
 ---
 
@@ -123,13 +179,8 @@ This internship follows a structured learning path covering:
 4. ✅ **Hugging Face and Advanced Features** - NLP & ML (Completed)
 5. ✅ **Vector Databases and Memory** - Semantic Search & RAG (Completed)
 6. ✅ **Streamlit Applications** - Web Apps (Completed)
-7. 📝 **Module 7** - Coming Soon
-8. 📝 **Module 8** - Coming Soon
-9. 📝 **Module 9** - Coming Soon
-
----
-
-## 🛠️ Technologies Used
+7. ✅ **Agentic-AI** - AI Agents & Multi-step Reasoning (Comple)ted))ed)
+9. ✅ **NOSQL_TASK** - NoSQL & MongoDB (Completed)ed)
 
 - **Programming Languages:** Python
 - **Libraries & Frameworks:** NumPy, Pandas, Flask, Streamlit
@@ -183,12 +234,10 @@ This repository documents my learning journey during my internship, focusing on 
 | Hugging Face Advanced Features | ✅ Complete | 6/6 |
 | Vector Databases and Memory | ✅ Complete | 4/4 |
 | Streamlit Applications | ✅ Complete | 5/5 |
-| Module 7 | 🔜 Upcoming | 0/? |
-| Module 8 | 🔜 Upcoming | 0/? |
-| Module 9 | 🔜 Upcoming | 0/? |
-
-**Total Completed:** 6/9 modules | **Total Tasks:** 29/29+ completed
-
+| Agentic-AI | ✅ Complete | 6/6 |
+| ImageGeneration | ✅ Complete | 4/4 
+| NOSQL_TASK | ✅ Complete | 2 ||
+**Total Completed:** 9/9 modules | **Total Tasks:** 32/32+ completed
 ---
 
 ## 📝 License
